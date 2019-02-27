@@ -1,3 +1,6 @@
+# This is a forked Repo from Esri/arcgis-runtime-samples-android
+Using this forked repo to practice mobile GIS programming using the Esri SDK
+
 # Overview
 ArcGIS Runtime SDK for Android v100.4.0 samples.  The `master` branch of this repository contains sample app modules for the latest available version of the [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/). Samples released under older versions can be found through the [git tags](https://github.com/Esri/arcgis-runtime-samples-android/tags).  Please read our [wiki](https://github.com/Esri/arcgis-runtime-samples-android/wiki) for help with working with this repository.  
 
